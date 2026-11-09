@@ -1,0 +1,11 @@
+# Arquivos compilados do Java
+*.class
+out/
+
+# Configurações locais da IDE (IntelliJ)
+.idea/
+*.iml
+
+# Arquivo de dados gerado em execução (opcional, não queremos subir tarefas de teste)
+tasks.json
+
