@@ -1,3 +1,5 @@
+# bin/
+bin/
 # Arquivos compilados do Java
 *.class
 out/
@@ -6,6 +8,5 @@ out/
 .idea/
 *.iml
 
-# Arquivo de dados gerado em execução (opcional, não queremos subir tarefas de teste)
+# Arquivo de dados gerado em execução
 tasks.json
-
